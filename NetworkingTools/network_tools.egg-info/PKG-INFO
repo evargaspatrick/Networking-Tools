@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: network-tools
+Version: 0.1.0
+Summary: Network diagnostic tools with ICMP/TCP ping and traceroute
+Author: Your Name
+Dynamic: author
+Dynamic: summary

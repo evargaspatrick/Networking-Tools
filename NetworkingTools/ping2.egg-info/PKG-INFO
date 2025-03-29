@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: ping2
+Version: 0.1.0
+Summary: An ICMP ping utility with TCP fallback
+Author: Your Name
+Dynamic: author
+Dynamic: summary

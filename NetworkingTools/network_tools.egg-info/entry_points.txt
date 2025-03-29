@@ -1,0 +1,3 @@
+[console_scripts]
+ping2 = ping2:main
+traceroute2 = traceroute2:main
