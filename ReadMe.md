@@ -1,7 +1,8 @@
 # How to install
 
-1. Download to your desired directoy
-2. pip install -e .
+1. Download to your desired directory
+2. cd NetworkingTools
+3. pip install -e .
 
 # Requirements
 
